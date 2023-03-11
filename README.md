@@ -14,3 +14,5 @@ A basic script to display a raspberry pi's hostname and IP address on a oled dis
 
 I had some trouble getting this to work on OpenMediaVault ontop of Raspberry Pi OS lite 64bit and had to install the following packages
 `sudo apt install python3-dev python3-setuptools`
+
+For more info about this project, please have a look at [the article I wrote](https://tristam.ie/2023/113/).
